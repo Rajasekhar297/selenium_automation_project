@@ -28,7 +28,7 @@ public class Collectionsusingselenium {
 		
 		System.out.println(count);
 		
-		
+		System.out.println("The nof links in the Googole Homepages are :" +  count);
 		
 		
 		
