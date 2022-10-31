@@ -11,7 +11,7 @@ public class Methodsinselenium01 {
 	
 	public static void main(String[] args) {
 		
-	} {
+	
 		
 		
 		WebDriverManager.chromedriver().setup();
